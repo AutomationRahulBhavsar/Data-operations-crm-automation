@@ -8,4 +8,10 @@ Python-based data operations pipeline for cleaning, auditing, and reconciling vo
 ## Setup & Usage
 1. Clone the repository:
    ```bash
-   python voucher_reconciliation.py --crm crm.csv --groupon groupon.csv --out exceptions_report.csv'''
+   git clone https://github.com/AutomationRahulBhavsar/Data-operations-crm-automation.git
+   ```
+2. Run the reconciliation script:
+   ```bash
+   python voucher_reconciliation.py --crm crm.csv --groupon groupon.csv --out exceptions_report.csv
+   ```
+
