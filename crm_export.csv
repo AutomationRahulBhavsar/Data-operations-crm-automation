@@ -1,0 +1,122 @@
+crm_id,voucher_code,customer_name,email,deal_id,deal_name,amount_gbp,issue_date,status,redeemed_date,redeemed_location
+C0001,GRP-FD0TVBDI,Amy Clarke,amy.clarke78@example.com,D101,Spa Day for Two,79,09-08-2026,REDEEMED,10-08-2026,Manchester
+C0002,GRP-51FPKH1D,Harry Desai,harry.desai49@example.com,D104,Escape Room x4,60,19-08-2026,REDEEMED,23-08-2026,London
+C0003,GRP-QE7CKW5N,Tom Khan,tom.khan25@example.com,D103,Cocktail Masterclass,45,26-08-2026,REDEEMED,18-09-2026,Leeds
+C0004,GRP-CIDKWNNH,Vik Jones,vik.jones35@example.com,D101,Spa Day for Two,79,25-08-2026,REDEEMED,17-09-2026,Leeds
+C0005,GRP-N9XUY41I,Ravi Clarke,ravi.clarke5@example.com,D102,Afternoon Tea,35,08-08-2026,REDEEMED,19-08-2026,Birmingham
+C0006,GRP-5LXO6QJI,Chloe Jones,chloe.jones72@example.com,D103,Cocktail Masterclass,45,30-08-2026,ISSUED,,
+C0007,GRP-OH9SDBDW,Zoe Evans,zoe.evans88@example.com,D103,Cocktail Masterclass,45,14-08-2026,ISSUED,,
+C0008,GRP-9T84AZYT,Tom Shah,tom.shah35@example.com,D104,Escape Room x4,60,13-08-2026,REDEEMED,07-09-2026,London
+C0009,GRP-85JSG65K,Jack Taylor,jack.taylor82@example.com,D101,Spa Day for Two,79,06-08-2026,REDEEMED,23-08-2026,Manchester
+C0010,GRP-2TALA753,Liam Singh,liam.singh40@example.com,D102,Afternoon Tea,35,06-08-2026,REDEEMED,14-08-2026,Leeds
+C0011,GRP-39TEX8FS,Sara Shah,sara.shah78@example.com,D102,Afternoon Tea,35,03-08-2026,ISSUED,,
+C0012,GRP-YZOYN6QI,Grace Hall,grace.hall9@example.com,D104,Escape Room x4,60,18-08-2026,ISSUED,,
+C0013,GRP-HCWI64CI,Amy Evans,amy.evans86@example.com,D103,Cocktail Masterclass,45,18-08-2026,REDEEMED,03-09-2026,Manchester
+C0014,GRP-R23GDPPQ,Zoe Hall,zoe.hall94@example.com,D102,Afternoon Tea,35,29-08-2026,REDEEMED,31-08-2026,Leeds
+C0015,GRP-DGTFGQ5C,Maya Clarke,maya.clarke71@example.com,D101,Spa Day for Two,79,11-08-2026,ISSUED,,
+C0016,GRP-874FRHOC,Ben Mehta,ben.mehta49@example.com,D101,Spa Day for Two,79,18-08-2026,ISSUED,,
+C0017,GRP-QP89UZFK,Maya Khan,maya.khan8@example.com,D101,Spa Day for Two,79,30-08-2026,ISSUED,,
+C0018,GRP-R7TCS4CC,Zoe Brown,zoe.brown31@example.com,D101,Spa Day for Two,79,02-08-2026,REDEEMED,15-08-2026,Leeds
+C0019,GRP-PVS7HZIO,Sara Evans,sara.evans86@example.com,D102,Afternoon Tea,35,02-08-2026,REDEEMED,23-08-2026,London
+C0020,GRP-AWUDTSEM,Kira Hall,kira.hall9@example.com,D104,Escape Room x4,60,25-08-2026,ISSUED,,
+C0021,GRP-TK93TYT7,Liam Khan,,D102,Afternoon Tea,35,06-08-2026,REDEEMED,11-08-2026,London
+C0022,GRP-KHMY4SJ6,Dan Clarke,dan.clarke7@example.com,D101,Spa Day for Two,79,18-08-2026,REDEEMED,21-08-2026,Birmingham
+C0023,GRP-WJ0TPAC5,Ben Patel,ben.patel20@example.com,D103,Cocktail Masterclass,45,11-08-2026,ISSUED,,
+C0024,GRP-EL6246HI,Liam Evans,liam.evans14@example.com,D101,Spa Day for Two,79,18-08-2026,REDEEMED,30-08-2026,Birmingham
+C0025,GRP-35A0L725,Harry Walker,harry.walker32@example.com,D102,Afternoon Tea,35,06-08-2026,ISSUED,,
+C0026,GRP-54I3QK2I,Finn Singh,finn.singh4@example.com,D103,Cocktail Masterclass,45,23-08-2026,REDEEMED,14-09-2026,Manchester
+C0027,GRP-1MSY4LA5,Kira Khan,kira.khan34@example.com,D104,Escape Room x4,60,28-08-2026,REDEEMED,03-09-2026,London
+C0028,GRP-2P9E6GBP,Dan Evans,dan.evans67@example.com,D101,Spa Day for Two,79,14-08-2026,REDEEMED,01-09-2026,Manchester
+C0029,GRP-LL4ZKLOO,Noah Shah,noah.shah38@example.com,D103,Cocktail Masterclass,45,31-08-2026,REDEEMED,18-09-2026,Manchester
+C0030,GRP-0GUO4KH2,Noah Mehta,noah.mehta78@example.com,D102,Afternoon Tea,35,31-08-2026,REDEEMED,21-09-2026,London
+C0031,GRP-R62GDSWM,Olivia Desai,olivia.desai97@example.com,D104,Escape Room x4,60,22-08-2026,REDEEMED,30-08-2026,London
+C0032,GRP-9W1Q5UZN,Grace Smith,grace.smith52@example.com,D102,Afternoon Tea,35,01-08-2026,REDEEMED,09-08-2026,Manchester
+C0033,GRP-2ZQU7EEQ,Dan Singh,dan.singh68@example.com,D101,Spa Day for Two,79,14-08-2026,REDEEMED,01-09-2026,London
+C0034,GRP-P6QF5Q14,Tom Walker,tom.walker36@example.com,D104,Escape Room x4,60,24-08-2026,ISSUED,,
+C0035,GRP-ZIM6CFNF,Uma Jones,uma.jones28@example.com,D104,Escape Room x4,60,09-08-2026,REDEEMED,12-08-2026,Birmingham
+C0036,GRP-HP6VZ41N,Kira Wilson,kira.wilson1@example.com,D104,Escape Room x4,60,15-08-2026,REDEEMED,27-08-2026,London
+C0037,GRP-26RJRNY2,Noah Wilson,noah.wilson93@example.com,D104,Escape Room x4,60,24-08-2026,ISSUED,,
+C0038,GRP-T6VXDP5G,Olivia Hall,olivia.hall34@example.com,D102,Afternoon Tea,35,05-08-2026,ISSUED,,
+C0039,GRP-1N13JCAT,Kira Jones,kira.jones45@example.com,D104,Escape Room x4,60,15-08-2026,REDEEMED,23-08-2026,Leeds
+C0040,GRP-WIRE8QJN,Amy Jones,amy.jones78@example.com,D101,Spa Day for Two,79,07-08-2026,ISSUED,,
+C0041,GRP-7U6N7HV3,Finn Khan,,D101,Spa Day for Two,79,04-08-2026,REDEEMED,08-08-2026,London
+C0042,GRP-PNSM43D8,Sara Singh,sara.singh82@example.com,D101,Spa Day for Two,79,02-08-2026,REDEEMED,17-08-2026,Manchester
+C0043,GRP-J3TRP0J4,Finn Clarke,finn.clarke12@example.com,D104,Escape Room x4,60,17-08-2026,ISSUED,,
+C0044,GRP-VNB4GH2M,Olivia Jones,olivia.jones77@example.com,D103,Cocktail Masterclass,45,25-08-2026,REDEEMED,17-09-2026,London
+C0045,GRP-OTIRZQAK,Quinn Jones,quinn.jones52@example.com,D101,Spa Day for Two,79,03-08-2026,REDEEMED,26-08-2026,Manchester
+C0046,GRP-TP0LZJJE,Vik Evans,vik.evans25@example.com,D103,Cocktail Masterclass,45,12-08-2026,REDEEMED,23-08-2026,Leeds
+C0047,GRP-09SKDGIG,Grace Jones,grace.jones2@example.com,D102,Afternoon Tea,35,24-08-2026,REDEEMED,16-09-2026,Manchester
+C0048,GRP-7W1DAKRM,Ben Patel,ben.patel7@example.com,D103,Cocktail Masterclass,45,18-08-2026,REDEEMED,27-08-2026,Birmingham
+C0049,GRP-WBFUK9E1,Chloe Taylor,chloe.taylor78@example.com,D101,Spa Day for Two,79,16-08-2026,REDEEMED,05-09-2026,Manchester
+C0050,GRP-VPUC8D1W,Olivia Hall,olivia.hall34@example.com,D104,Escape Room x4,60,15-08-2026,REDEEMED,06-09-2026,Leeds
+C0051,GRP-AQVKIZZQ,Harry Smith,harry.smith88@example.com,D102,Afternoon Tea,35,18-08-2026,REDEEMED,26-08-2026,London
+C0052,GRP-FJFC2V37,Noah Shah,noah.shah57@example.com,D102,Afternoon Tea,35,18-08-2026,REDEEMED,22-08-2026,Birmingham
+C0053,GRP-TPV60VAI,Will Taylor,will.taylor87@example.com,D103,Cocktail Masterclass,45,31-08-2026,REDEEMED,19-09-2026,Leeds
+C0054,GRP-QX6GVWRD,Sara Patel,sara.patel45@example.com,D103,Cocktail Masterclass,45,25-08-2026,ISSUED,,
+C0055,GRP-FORXO1BD,Kira Brown,kira.brown33@example.com,D104,Escape Room x4,60,22-08-2026,REDEEMED,02-09-2026,Leeds
+C0056,GRP-TOGN1W1H,Quinn Walker,quinn.walker71@example.com,D104,Escape Room x4,60,01-08-2026,REDEEMED,06-08-2026,London
+C0057,GRP-W2ZLAOI4,Will Desai,will.desai15@example.com,D104,Escape Room x4,60,04-08-2026,REDEEMED,19-08-2026,Leeds
+C0058,GRP-ZORQQFGV,Priya Hall,priya.hall96@example.com,D102,Afternoon Tea,35,23-08-2026,REDEEMED,28-08-2026,Leeds
+C0059,GRP-JA04UX5Q,Noah Brown,noah.brown62@example.com,D103,Cocktail Masterclass,45,30-08-2026,ISSUED,,
+C0060,GRP-QLGZUI1B,Kira Wilson,kira.wilson96@example.com,D103,Cocktail Masterclass,45,25-08-2026,REDEEMED,10-09-2026,Birmingham
+C0061,GRP-F8E8LD4D,Vik Singh,vik.singh59@example.com,D104,Escape Room x4,60,27-08-2026,REDEEMED,28-08-2026,Manchester
+C0062,GRP-8MYX444N,Uma Smith,uma.smith41@example.com,D104,Escape Room x4,60,03-08-2026,REDEEMED,24-08-2026,Birmingham
+C0063,GRP-790PDW5P,Tom Shah,tom.shah89@example.com,D101,Spa Day for Two,79,08-08-2026,REDEEMED,18-08-2026,Leeds
+C0064,GRP-NFTU2GC5,Kira Singh,kira.singh80@example.com,D101,Spa Day for Two,79,02-08-2026,REDEEMED,24-08-2026,Manchester
+C0065,GRP-JJA26YFP,Sara Smith,sara.smith45@example.com,D104,Escape Room x4,60,08-08-2026,REDEEMED,27-08-2026,London
+C0066,GRP-HNRIUU9K,Will Khan,will.khan85@example.com,D104,Escape Room x4,60,15-08-2026,ISSUED,,
+C0067,GRP-2960361I,Isla Patel,isla.patel46@example.com,D104,Escape Room x4,60,19-08-2026,ISSUED,,
+C0068,GRP-11YEDWB2,Uma Jones,uma.jones5@example.com,D102,Afternoon Tea,35,20-08-2026,REDEEMED,08-09-2026,London
+C0069,GRP-OH25NSJF,Chloe Hall,chloe.hall62@example.com,D102,Afternoon Tea,35,10-08-2026,REDEEMED,20-08-2026,London
+C0070,GRP-IYYO4UDO,Olivia Shah,olivia.shah34@example.com,D101,Spa Day for Two,79,05-08-2026,ISSUED,,
+C0071,GRP-JNWNYQW7,Olivia Brown,olivia.brown42@example.com,D101,Spa Day for Two,79,22-08-2026,ISSUED,,
+C0072,GRP-6KOF8KRD,Uma Shah,uma.shah69@example.com,D102,Afternoon Tea,35,21-08-2026,ISSUED,,
+C0073,GRP-08P0FODR,Maya Desai,maya.desai53@example.com,D102,Afternoon Tea,35,12-08-2026,REDEEMED,21-08-2026,Leeds
+C0074,GRP-4DYT9MOG,Grace Desai,grace.desai16@example.com,D103,Cocktail Masterclass,45,15-08-2026,ISSUED,,
+C0075,GRP-VA2IEUC1,Chloe Mehta,chloe.mehta27@example.com,D104,Escape Room x4,60,07-08-2026,REDEEMED,26-08-2026,Manchester
+C0076,GRP-VJ99T2D5,Kira Singh,kira.singh17@example.com,D102,Afternoon Tea,35,05-08-2026,ISSUED,,
+C0077,GRP-LGB0S0R2,Liam Singh,liam.singh66@example.com,D101,Spa Day for Two,79,26-08-2026,REDEEMED,14-09-2026,Leeds
+C0078,GRP-06XKXB94,Quinn Jones,quinn.jones55@example.com,D104,Escape Room x4,60,31-08-2026,REDEEMED,22-09-2026,Leeds
+C0079,GRP-CVCJWTL9,Will Hall,will.hall68@example.com,D104,Escape Room x4,60,15-08-2026,REDEEMED,25-08-2026,Birmingham
+C0080,GRP-X5T5P5O3,Dan Singh,dan.singh52@example.com,D104,Escape Room x4,60,23-08-2026,REDEEMED,06-09-2026,Leeds
+C0081,GRP-8YRDDP0N,Noah Brown,noah.brown17@example.com,D103,Cocktail Masterclass,45,22-08-2026,REDEEMED,09-09-2026,Leeds
+C0082,GRP-X15Z8VMU,Vik Shah,vik.shah28@example.com,D103,Cocktail Masterclass,45,14-08-2026,REDEEMED,19-08-2026,Birmingham
+C0083,GRP-EKIPU1WY,Dan Brown,dan.brown72@example.com,D102,Afternoon Tea,35,28-08-2026,REDEEMED,29-08-2026,London
+C0084,GRP-7MGFXC08,Finn Khan,finn.khan12@example.com,D101,Spa Day for Two,79,23-08-2026,ISSUED,,
+C0085,GRP-NZ1UDBFW,Maya Taylor,maya.taylor87@example.com,D102,Afternoon Tea,35,15-08-2026,REDEEMED,18-08-2026,London
+C0086,GRP-OHSMDYVS,Vik Taylor,vik.taylor40@example.com,D104,Escape Room x4,60,16-08-2026,REDEEMED,18-08-2026,Manchester
+C0087,GRP-811KERPE,Tom Patel,tom.patel69@example.com,D104,Escape Room x4,60,01-08-2026,REDEEMED,24-08-2026,Manchester
+C0088,GRP-PQCLPOXK,Chloe Taylor,chloe.taylor52@example.com,D103,Cocktail Masterclass,45,28-08-2026,ISSUED,,
+C0089,GRP-QYNPDPOC,Kira Smith,kira.smith40@example.com,D101,Spa Day for Two,79,26-08-2026,ISSUED,,
+C0090,GRP-SES6M033,Harry Brown,harry.brown31@example.com,D103,Cocktail Masterclass,45,25-08-2026,REDEEMED,29-08-2026,Manchester
+C0091,GRP-1C8WQUUY,Grace Smith,grace.smith73@example.com,D103,Cocktail Masterclass,45,20-08-2026,REDEEMED,10-09-2026,London
+C0092,GRP-W2VMCQBN,Ella Desai,ella.desai37@example.com,D103,Cocktail Masterclass,45,03-08-2026,REDEEMED,06-08-2026,Leeds
+C0093,GRP-0B6UGVS8,Olivia Evans,olivia.evans58@example.com,D104,Escape Room x4,60,18-08-2026,ISSUED,,
+C0094,GRP-GIPPSFNK,Kira Clarke,kira.clarke53@example.com,D101,Spa Day for Two,79,03-08-2026,REDEEMED,28-08-2026,London
+C0095,GRP-DYK0X65M,Uma Mehta,uma.mehta75@example.com,D101,Spa Day for Two,79,11-08-2026,REDEEMED,02-09-2026,Manchester
+C0096,GRP-EZDUXLEZ,Jack Mehta,jack.mehta95@example.com,D103,Cocktail Masterclass,45,23-08-2026,REDEEMED,14-09-2026,Leeds
+C0097,GRP-GH8RIEC4,Quinn Brown,quinn.brown13@example.com,D104,Escape Room x4,60,01-08-2026,REDEEMED,18-08-2026,Leeds
+C0098,GRP-F313FPOY,Tom Smith,tom.smith31@example.com,D103,Cocktail Masterclass,45,20-08-2026,REDEEMED,04-09-2026,London
+C0099,GRP-3Q4N89QK,Harry Wilson,harry.wilson49@example.com,D104,Escape Room x4,60,08-08-2026,REDEEMED,25-08-2026,Birmingham
+C0100,GRP-JX5TD44K,Grace Singh,grace.singh98@example.com,D102,Afternoon Tea,35,20-08-2026,REDEEMED,26-08-2026,London
+C0101,GRP-8HQMABSI,Quinn Smith,quinn.smith11@example.com,D104,Escape Room x4,60,27-08-2026,REDEEMED,08-09-2026,Manchester
+C0102,GRP-X2EK3ZEZ,Kira Hall,kira.hall58@example.com,D101,Spa Day for Two,79,04-08-2026,ISSUED,,
+C0103,GRP-F7VP1IEI,Chloe Patel,chloe.patel82@example.com,D101,Spa Day for Two,79,09-08-2026,REDEEMED,29-08-2026,Birmingham
+C0104,GRP-TWUZKAMU,Dan Walker,dan.walker24@example.com,D101,Spa Day for Two,79,29-08-2026,REDEEMED,20-09-2026,Leeds
+C0105,GRP-9TOQW9JA,Chloe Wilson,chloe.wilson9@example.com,D103,Cocktail Masterclass,45,18-08-2026,REDEEMED,30-08-2026,Manchester
+C0106,GRP-BT3G2QZW,Sara Clarke,sara.clarke18@example.com,D101,Spa Day for Two,79,25-08-2026,REDEEMED,28-08-2026,Birmingham
+C0107,GRP-5LLO3RBX,Jack Jones,jack.jones37@example.com,D101,Spa Day for Two,79,02-08-2026,ISSUED,,
+C0108,GRP-EN606N9R,Ben Walker,ben.walker64@example.com,D103,Cocktail Masterclass,45,21-08-2026,REDEEMED,02-09-2026,London
+C0109,GRP-9GKDLKQZ,Zoe Taylor,zoe.taylor22@example.com,D101,Spa Day for Two,79,03-08-2026,REDEEMED,26-08-2026,Birmingham
+C0110,GRP-M9J98CWN,Olivia Patel,olivia.patel96@example.com,D103,Cocktail Masterclass,45,24-08-2026,ISSUED,,
+C0111,GRP-2BC2NNUV,Amy Smith,amy.smith87@example.com,D102,Afternoon Tea,35,28-08-2026,REDEEMED,12-09-2026,London
+C0112,GRP-TOXIE0RN,Olivia Singh,olivia.singh72@example.com,D103,Cocktail Masterclass,45,03-08-2026,REDEEMED,07-08-2026,London
+C0113,GRP-K6RE4Q6Q,Will Desai,will.desai12@example.com,D103,Cocktail Masterclass,45,07-08-2026,ISSUED,,
+C0114,GRP-T64Z7W2S,Vik Brown,vik.brown16@example.com,D103,Cocktail Masterclass,45,23-08-2026,REDEEMED,30-08-2026,Manchester
+C0115,GRP-N2TWDL9Z,Priya Patel,priya.patel68@example.com,D102,Afternoon Tea,35,12-08-2026,REDEEMED,26-08-2026,Birmingham
+C0116,GRP-QSE3TV1E,Ella Brown,ella.brown65@example.com,D101,Spa Day for Two,79,21-08-2026,REDEEMED,23-08-2026,Leeds
+C0117,GRP-ZM764JWT,Jack Smith,jack.smith17@example.com,D102,Afternoon Tea,35,06-08-2026,REDEEMED,27-08-2026,London
+C0118,GRP-UGW6M7B5,Quinn Mehta,quinn.mehta11@example.com,D101,Spa Day for Two,79,06-08-2026,REDEEMED,08-08-2026,London
+C0119,GRP-RWK8R2YK,Sara Taylor,sara.taylor10@example.com,D102,Afternoon Tea,35,20-08-2026,REDEEMED,12-09-2026,Leeds
+C0120,GRP-MF5L9MO1,Olivia Taylor,olivia.taylor66@example.com,D102,Afternoon Tea,35,16-08-2026,REDEEMED,03-09-2026,Leeds
+C0121,GRP-39TEX8FS,Sara Shah,sara.shah78@example.com,D102,Afternoon Tea,35,03-08-2026,ISSUED,,

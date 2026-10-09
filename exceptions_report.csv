@@ -1,0 +1,26 @@
+issue_type,voucher_code,notes
+Blank code in Groupon file,(blank),Code is empty
+Blank code in Groupon file,(blank),Code is empty
+Duplicate in Groupon file,GRP-85JSG65K,Same code appears more than once
+Duplicate in Groupon file,GRP-W2ZLAOI4,Same code appears more than once
+Duplicate in Groupon file,GRP-LGB0S0R2,Same code appears more than once
+Invalid date,GRP-TOGN1W1H,Date does not exist
+Invalid date,GRP-TWUZKAMU,Date does not exist
+"In Groupon, not in CRM",GRP-DEJNOBBU,Code not found in CRM
+"In Groupon, not in CRM",GRP-HMBR5XQT,Code not found in CRM
+"In Groupon, not in CRM",GRP-F9Q5RDOQ,Code not found in CRM
+Price mismatch,GRP-F8E8LD4D,Groupon price differs from CRM
+Price mismatch,GRP-8MYX444N,Groupon price differs from CRM
+Price mismatch,GRP-EN606N9R,Groupon price differs from CRM
+"Status mismatch (CRM ISSUED, Groupon Redeemed)",GRP-JNWNYQW7,CRM needs updating to redeemed
+"Status mismatch (CRM ISSUED, Groupon Redeemed)",GRP-QX6GVWRD,CRM needs updating to redeemed
+"Status mismatch (CRM ISSUED, Groupon Redeemed)",GRP-5LLO3RBX,CRM needs updating to redeemed
+"Status mismatch (CRM ISSUED, Groupon Redeemed)",GRP-HNRIUU9K,CRM needs updating to redeemed
+"Status mismatch (CRM ISSUED, Groupon Redeemed)",GRP-AWUDTSEM,CRM needs updating to redeemed
+"In CRM redeemed, missing from Groupon",GRP-TK93TYT7,Redeemed per CRM but not in Groupon report
+"In CRM redeemed, missing from Groupon",GRP-LL4ZKLOO,Redeemed per CRM but not in Groupon report
+"In CRM redeemed, missing from Groupon",GRP-09SKDGIG,Redeemed per CRM but not in Groupon report
+"In CRM redeemed, missing from Groupon",GRP-X15Z8VMU,Redeemed per CRM but not in Groupon report
+Duplicate voucher in CRM,GRP-39TEX8FS,Same voucher appears twice in CRM
+Missing email in CRM,GRP-TK93TYT7,Customer email blank
+Missing email in CRM,GRP-7U6N7HV3,Customer email blank
